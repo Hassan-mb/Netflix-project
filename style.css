@@ -1,0 +1,145 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  background-image: url(./how-can-someone-make-this-background-with-html-and-css-i-v0-zjgs096khv591.jpg.webp);
+  height: 750px;
+  margin: 0;
+}
+
+.container2 {
+  background-color: black;
+  height: 800px;
+  margin: 0;
+}
+
+.container h2 {
+  margin: 0;
+}
+
+.upper-pos h2 {
+  font-size: 55px;
+  margin-right: 550px;
+  margin-top: 10px;
+}
+
+.mid-pos h1 {
+  font-size: 50px;
+}
+.mid-pos p {
+  font-size: 25px;
+}
+.text {
+  color: white;
+}
+
+.mid-pos2 h1 {
+  font-size: 50px;
+  margin-bottom: 0;
+}
+
+.mid-pos2 p {
+  font-size: 25px;
+}
+
+.netflix-red {
+  color: #e50914;
+}
+
+.upper-pos {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.mid-pos {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  margin-top: 100px;
+  margin-right: 70px;
+  margin-left: 70px;
+  margin-bottom: 30px;
+}
+
+.mid-pos2 {
+  display: flex;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  height: 500px;
+  margin: 25px;
+  /* Optional: background color for visibility */
+}
+
+.lower-pos {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.right-push {
+  margin-right: 30px;
+}
+.left-push {
+  margin-left: 30px;
+}
+.background-red {
+  background-color: #e50914;
+}
+.h1-margin {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.upper-buttons {
+  margin-top: 20px;
+  border-radius: 100px;
+  height: fit-content;
+  font-size: larger;
+}
+
+.TV-pos {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.container-2p2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.email-size {
+  height: fit-content;
+  font-size: 30px;
+  background-color: rgba(255, 255, 255, 0);
+  color: white;
+}
+
+.get-started {
+  height: fit-content;
+  font-size: 30px;
+}
+
+.trans-button {
+  background-color: rgba(255, 255, 255, 0);
+  color: white;
+}
